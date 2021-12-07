@@ -1,6 +1,7 @@
 .container{
     text-align: center;
-    margin-top:23px;
+    margin-top:25px;
+    
 }
 
 table{
@@ -20,13 +21,13 @@ button{
     font-size: 40px;
     background: #7cbb8f;
     width: 102px;
-    height: 90px;
+    height: 80px;
     margin: 6px;
 }
 
 .calculator{ 
-    border: 4px solid #048d7f;
-    background-color: #e1e2e2;
+    border: 4px solid #274727;
+    background-color: #afd3a9;
     padding: 23px;
     border-radius: 53px;
     display: inline-block;
